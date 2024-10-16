@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Nitin, a passionate Full Stack Developer based in Delhi. I love working with the MERN stack and I'm always eager to learn new things.<br><br>🌱 Currently, I’m exploring PostgreSQL, Docker, Firebase, Python Django.<br><br>💡 I enjoy giving solution to realistic problems or people through my programming skills and collaborating with others to build innovative solutions.<br><br>📫 Feel free to connect with me: nitinjha2609@gmail.com
+👋 Hi there! I’m Nitin, a passionate Full Stack Developer based in Delhi. I love working with the MERN stack and I'm always eager to learn new things.<br><br>🌱 Currently, I’m exploring PostgreSQL, Docker, Firebase, Python Django.<br><br>💡 I enjoy creating logical solutions to realistic problems for people through my programming skills and collaborating with others to build innovative solutions.<br><br>📫 Feel free to connect with me: nitinjha2609@gmail.com
 
 
 # 💻 Tech Stack:
